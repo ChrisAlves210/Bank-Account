@@ -84,7 +84,6 @@ class BankAccount:
         print(self.full_name)
         print(f"Account No.: {masked_number}")
         print(f"Balance: ${self.balance:.2f}")
-        print("-")
 
 
 if __name__ == "__main__":
